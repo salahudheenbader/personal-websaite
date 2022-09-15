@@ -8,3 +8,14 @@ body{
     font-size: 1.6rem;
     font-family: HeLvetica,arial,sans-serif;
 }
+
+/*Layout*/
+
+.grid-container{
+    background-color: blue;
+    display: grid;
+    grid-template-areas: 
+    'header'
+    'main'
+    'footer';
+}
