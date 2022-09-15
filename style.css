@@ -68,10 +68,19 @@ header:hover{
     justify-content: center;
 }
 img{
+    border-radius: 1rem;
     padding: 30px;
     float: left;
     padding-top: 30px;
+    border-color: black;
+    border: 1rem gold;
+    width: 100%;
+    height: 100%;
 }
 .menu{
     background-color: rgb(237, 241, 241);
+}
+image.mediam{
+max-width: 29rem;
+width: 100%;
 }
