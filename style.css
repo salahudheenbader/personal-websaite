@@ -1,0 +1,10 @@
+html{
+    font-size: 1rem;
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    height: 100vh;
+    font-size: 1.6rem;
+    font-family: HeLvetica,arial,sans-serif;
+}
